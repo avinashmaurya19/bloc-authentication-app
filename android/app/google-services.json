@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "863331444436",
+    "project_id": "authentication-app-bloc",
+    "storage_bucket": "authentication-app-bloc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863331444436:android:3fca7ef893e622dda27d41",
+        "android_client_info": {
+          "package_name": "com.example.authentication_flutter_bloc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5AUVg8PJAcizOALVbasX4_H-8VUQZum4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
